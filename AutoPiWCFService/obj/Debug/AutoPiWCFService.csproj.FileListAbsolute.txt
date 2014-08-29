@@ -1,0 +1,6 @@
+C:\Users\josh.pharis\Documents\GitHub\AutoPiWCF\AutoPiWCFService\bin\Debug\AutoPiWCFService.dll.config
+C:\Users\josh.pharis\Documents\GitHub\AutoPiWCF\AutoPiWCFService\bin\Debug\AutoPiWCFService.dll
+C:\Users\josh.pharis\Documents\GitHub\AutoPiWCF\AutoPiWCFService\bin\Debug\AutoPiWCFService.pdb
+C:\Users\josh.pharis\Documents\GitHub\AutoPiWCF\AutoPiWCFService\obj\Debug\AutoPiWCFService.csprojResolveAssemblyReference.cache
+C:\Users\josh.pharis\Documents\GitHub\AutoPiWCF\AutoPiWCFService\obj\Debug\AutoPiWCFService.dll
+C:\Users\josh.pharis\Documents\GitHub\AutoPiWCF\AutoPiWCFService\obj\Debug\AutoPiWCFService.pdb
