@@ -18,7 +18,10 @@ namespace AutoPiWCFService
 
         [OperationContract]
         [WebGet(UriTemplate = "Light/{id}")]
-        KeyValuePair<int, bool> GetLightById(int id);
+        KeyValuePair<int, bool> GetLightById(string id);
+
+        [OperationContract]
+        Person GetData(string id);
 
         //[OperationContract]
         //[WebInvoke(UriTemplate = "AddBook/{name}")]
